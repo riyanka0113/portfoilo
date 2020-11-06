@@ -161,10 +161,9 @@ img {
     color: white;
 }
 
-.fa-snapchat-ghost {
-    background: #fffc00;
+.fa-github {
+    background: #7DBBE6;
     color: white;
-    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
 .fa-whatsapp {
