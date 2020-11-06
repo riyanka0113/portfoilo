@@ -346,7 +346,7 @@ img {
 .home__social {
     display: -webkit-box;
     display: -ms-flexbox;
-    display: flex;
+    //display: flex;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
     -ms-flex-direction: column;
@@ -432,6 +432,7 @@ img {
     width: 100%;
     height: 100%;
     z-index: var(--z-modal);
+    z-index: -1;
 }
 
 .first {
